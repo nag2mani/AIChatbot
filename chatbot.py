@@ -3,7 +3,7 @@ from streamlit_chat import message
 from langchain.chat_models import ChatOpenAI
 from langchain.chains import ConversationChain
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 
 # Initialize ChatOpenAI and ConversationChain
